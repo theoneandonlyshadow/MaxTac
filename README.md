@@ -1,0 +1,2 @@
+# MaxTac
+Maximum Tactical AI
