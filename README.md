@@ -46,8 +46,9 @@ Note: MaxTac is **not** an open source project. It's source code will not be pub
 
 - Environment:
 
-        Node.js v21.3.0
-        Visual Studio Code
+        Node.js : v21.3.0
+        Git : v2.43.0.windows.1
+        Visual Studio Code : v1.87
   
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
