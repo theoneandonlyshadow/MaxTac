@@ -74,7 +74,6 @@ However, dependencies and installation process will be shared in some time to re
 * **[Madhav Nair](https://github.com/theoneandonlyshadow/)**
 * **[Sathish P](https://github.com/sa-sakii)**
 * **[Jayprakash Malik](https://github.com/tyler731137)**
-* **[Manoj Kumar](https://github.com/mk-jerry-jr)**
 
 ## Acknowledgements
 
