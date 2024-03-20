@@ -4,10 +4,18 @@
   </a>
 
 <h3 align='center'>
-  <b><span color="#ff3131" style="--darkreader-inline-color: #1affff;" data-darkreader-inline-color="">Max</span><span color="#1B71FA" style="--darkreader-inline-color: #2d96fa;" data-darkreader-inline-color="">Tac</span></b>
+  <b><span color="#ff3131">Max</span><span color="#1B71FA">Tac</span></b>
 </h3>
   <p align="center">
-    Computational Intelligence - Machine Learning - Artifical Intelligence
+    <span color="#ff3131">
+    Computational Intelligence
+    </span> - 
+    <span color="e6e6fa">
+      Machine Learning
+    </span> - 
+    <span color="1b71fa">
+      Artifical Intelligence
+    </span>
     <br/>
     <br/>
     Multi-purpose AI
@@ -45,6 +53,7 @@ Note: MaxTac is **not** an open source project. It's source code will not be pub
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Roadmap
 
