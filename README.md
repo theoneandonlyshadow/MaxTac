@@ -3,7 +3,9 @@
   <a href="https://github.com/theoneandonlyshadow/MaxTac">
   </a>
 
-  <h3 align="center">MaxTac</h3>
+  <span color="00ffff" style="--darkreader-inline-color: #1affff;" data-darkreader-inline-color="">Max</span>
+  <span color="#1B71FA" style="--darkreader-inline-color: #2d96fa;" data-darkreader-inline-color="">Tac</span>
+  <h3 align="center">Max<style></style>Tac</h3>
 
   <p align="center">
     Computational Intelligence - Machine Learning - Artifical Intelligence
