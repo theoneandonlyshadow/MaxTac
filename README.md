@@ -4,8 +4,7 @@
   </a>
 
 <h3 align='center'>
-  <span color="00ffff" style="--darkreader-inline-color: #1affff;" data-darkreader-inline-color="">Max</span>
-  <span color="#1B71FA" style="--darkreader-inline-color: #2d96fa;" data-darkreader-inline-color="">Tac</span>
+  <b><span color="#ff3131" style="--darkreader-inline-color: #1affff;" data-darkreader-inline-color="">Max</span><span color="#1B71FA" style="--darkreader-inline-color: #2d96fa;" data-darkreader-inline-color="">Tac</span></b>
 </h3>
   <p align="center">
     Computational Intelligence - Machine Learning - Artifical Intelligence
