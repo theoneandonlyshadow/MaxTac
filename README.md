@@ -7,7 +7,10 @@
   <b><span color="#ff3131">Max</span><span color="#1B71FA">Tac</span></b>
 </h3>
   <p align="center">
-    <span color="#ff3131">
+    Modular Adaptive eXtensive AI & Computation
+    <br/>
+    <br/>
+        <span color="#ff3131">
     Computational Intelligence
     </span> - 
     <span color="e6e6fa">
@@ -16,9 +19,6 @@
     <span color="1b71fa">
       Artifical Intelligence
     </span>
-    <br/>
-    <br/>
-    Multi-purpose AI
   </p>
 </p>
 
@@ -62,7 +62,7 @@ See the [portfolio](https://theoneandonlyshadow.github.io/madhav.github.io/) for
 
 ## License
 
-This is a Closed Source Project. Henceforth, source code will not be public. Please read why below.
+This is a Closed Source Project. Henceforth, source code will not be public. Exceptions are made in considerably small projects and are made Open Source. Please read below.
 
 ## Important
 
