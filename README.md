@@ -58,7 +58,7 @@ Note: MaxTac is **not** an open source project. It's source code will not be pub
 
 ## Roadmap
 
-See the [portfolio](https://theoneandonlyshadow.github.io/madhav.github.io/) for my detailed roadmap and about how i got this idea.
+See the [portfolio](https://madhavdotjs.netlify.app/) for my detailed roadmap and about how i got this idea.
 
 ## License
 
