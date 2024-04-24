@@ -30,7 +30,7 @@
 * [Built With](#built-with)
 * [Important](#important)
 * [Roadmap](#roadmap)
-* [License]('license.md')
+* [License](license.md)
 * [Contributors](#contributors)
 * [Acknowledgements](#acknowledgements)
 
