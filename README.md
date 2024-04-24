@@ -62,8 +62,7 @@ See the [portfolio](https://madhavdotjs.netlify.app/) for my detailed roadmap an
 
 ## License
 
-This is a Closed Source Project. Henceforth, source code will not be public. Exceptions are made in considerably small projects and are made Open Source. Please read below.
-
+Invokes EULA license. Please read the [License](license.md) page.
 ## Important
 
 This is a closed source project. Source code will not be public. It is done so to protect the integrity of MaxTac without the fear of getting stolen or improvised and avoid reselling without any credit for the actual author (me). Any data that is collected by MaxTac is encrypted in `AES 256` in `CBC` mode.
