@@ -4,7 +4,7 @@ IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT CAREFULLY. USING THIS SOF
 
 ## 1. Definitions
 
-The terms "us" or "we" refers to [Your Company Name], the owner of the Software.
+The terms "us" or "we" refers to MaxTac or Madhav Nair, the owner of the Software.
 
 "Software" refers to MaxTac's Vermilion, Shadow & Alexandrite.
 
@@ -22,6 +22,7 @@ Unless You have been granted prior, written consent from Us, You may not:
 - Sell, rent, lease, assign, or sublet the Software or portions thereof.
 - Grant rights in the Software to any other person.
 - Use the Software in violation of any U.S. or international law or regulation.
+- Modify/tweak the Software in any way.
 
 ## 4. Termination
 
