@@ -36,7 +36,7 @@
 
 ## About The Project
 
-MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](https://github.com/theoneandonlyshadow/alexandrite-magnus) as the Commputational Intelligence, ![Vermilion](https://github.com/theoneandonlyshadow/scarlett-vermilion) as the Artificial Intelligence and ![Shadow](https://github.com/theoneandonlyshadow/maximus-shadow) as the Machine Learning Intelligence.
+MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](https://github.com/theoneandonlyshadow/alexandrite-magnus) as the Computational Intelligence, ![Vermilion](https://github.com/theoneandonlyshadow/scarlett-vermilion) as the Artificial Intelligence and ![Shadow](https://github.com/theoneandonlyshadow/maximus-shadow) as the Machine Learning Intelligence.
 
 These sub projects work together to collect and analyze data and process it for the best suitable results for the users.
 
