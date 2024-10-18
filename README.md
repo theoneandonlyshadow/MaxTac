@@ -71,10 +71,11 @@ However, dependencies and installation process will be shared in some time to re
 
 ## Contributors
 
-* **[Madhav Nair](https://github.com/theoneandonlyshadow/)** - Backend Dev
-* **[Sathish P](https://github.com/sa-sakii)** - Frontend dev
-* **[Jayprakash Malik](https://github.com/tyler731137)** - ML Engineer
-
+* **[Madhav Nair](https://github.com/theoneandonlyshadow/)** - Backend Dev | MERN
+* **[Vaibhav Agarwal](https://github.com/itsvaibhav30)** - AI/ML Lead Dev | Python
+* **[Jayprakash Malik](https://github.com/tyler731137)** - Backend Dev | MERN
+* **[Apurva Ranjan]()** - Fullstack Dev | MERN & Next.js
+ 
 ## Acknowledgements
 
 * [ImgShields](https://shields.io/)
