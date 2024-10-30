@@ -7,7 +7,7 @@
   <b><span color="#ff3131">Max</span><span color="#1B71FA">Tac</span></b>
 </h3>
   <p align="center">
-    Modular Adaptive eXtensive AI & Computation
+    Modular Automation eXtensive AI & Computation
     <br/>
     <br/>
         <span color="#ff3131">
