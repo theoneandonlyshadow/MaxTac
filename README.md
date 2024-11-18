@@ -74,7 +74,6 @@ However, dependencies and installation process will be shared in some time to re
 * **[Madhav Nair](https://github.com/theoneandonlyshadow/)** - Backend Dev | MERN
 * **[Vaibhav Agarwal](https://github.com/itsvaibhav30)** - AI/ML Lead Dev | Python
 * **[Jayprakash Malik](https://github.com/tyler731137)** - Backend Dev | MERN
-* **[Apurva Ranjan]()** - Fullstack Dev | MERN & Next.js
  
 ## Acknowledgements
 
