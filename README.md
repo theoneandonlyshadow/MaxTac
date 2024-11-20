@@ -14,7 +14,7 @@
     Computational Intelligence
     </span> - 
     <span color="e6e6fa">
-      Machine Learning
+      Automation Intelligence
     </span> - 
     <span color="1b71fa">
       Artifical Intelligence
@@ -36,7 +36,7 @@
 
 ## About The Project
 
-MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](https://github.com/theoneandonlyshadow/alexandrite-magnus) as the Computational Intelligence, ![Vermilion](https://github.com/theoneandonlyshadow/scarlett-vermilion) as the Artificial Intelligence and ![Shadow](https://github.com/theoneandonlyshadow/maximus-shadow) as the Machine Learning Intelligence.
+MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](https://github.com/theoneandonlyshadow/alexandrite-magnus) as the Computational Intelligence, ![Vermilion](https://github.com/theoneandonlyshadow/scarlett-vermilion) as the Artificial Intelligence and ![Shadow](https://github.com/theoneandonlyshadow/maximus-shadow) as the Automation Intelligence.
 
 These sub projects work together to collect and analyze data and process it for the best suitable results for the users.
 
@@ -58,7 +58,7 @@ Note: MaxTac is **not** an open source project. It's source code will not be pub
 
 ## Roadmap
 
-See the [portfolio](https://madhavdotjs.netlify.app/) for my detailed roadmap and about how i got this idea.
+See the [portfolio](https://maxtac.tech/) for my detailed roadmap and about how i got this idea.
 
 ## License
 
