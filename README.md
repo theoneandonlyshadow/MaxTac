@@ -36,7 +36,7 @@
 
 ## About The Project
 
-MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](https://github.com/theoneandonlyshadow/alexandrite-magnus) as the Computational Intelligence, ![Vermilion](https://github.com/theoneandonlyshadow/scarlett-vermilion) as the Artificial Intelligence and ![Shadow](https://github.com/theoneandonlyshadow/maximus-shadow) as the Automation Intelligence.
+MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](https://github.com/theoneandonlyshadow/alexandrite-magnus) as the Computational Intelligence, ![Vermilion](https://github.com/theoneandonlyshadow/scarlett-vermilion) as the Artificial Intelligence and ![Maximus](https://github.com/theoneandonlyshadow/maximus-shadow) as the Automation Intelligence.
 
 These sub projects work together to collect and analyze data and process it for the best suitable results for the users.
 
@@ -65,7 +65,7 @@ See the [portfolio](https://maxtac.tech/) for my detailed roadmap and about how 
 Invokes EULA license. Please read the [License](license.md) page.
 ## Important
 
-This is a closed source project. Source code will not be public. It is done so to protect the integrity of MaxTac without the fear of getting stolen or improvised and avoid reselling without any credit for the actual author (me). Any data that is collected by MaxTac is encrypted in `AES 256` in `CBC` mode.
+This is a closed source project. Source code will not be public. It is done so to protect the integrity of MaxTac without the fear of getting stolen or improvised and avoid reselling without any credit for the actual author (me).
 
 However, dependencies and installation process will be shared in some time to recreate the project on your own.
 
