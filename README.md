@@ -71,9 +71,7 @@ However, dependencies and installation process will be shared in some time to re
 
 ## Contributors
 
-* **[Madhav Nair](https://github.com/theoneandonlyshadow/)** - Backend Dev | MERN
-* **[Mac](https://github.com/21elly4)** - AI/ML Lead Dev | Python
-* **[Jayprakash Malik](https://github.com/tyler731137)** - Backend Dev | MERN
+* **[Madhav Nair](https://github.com/theoneandonlyshadow/)** - The only dev.
  
 ## Acknowledgements
 
