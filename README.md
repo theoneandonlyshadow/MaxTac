@@ -40,7 +40,7 @@ MaxTac is a project containing of 3 sub projects. It contains: ![Alexandrite](ht
 
 These sub projects work together to collect and analyze data and process it for the best suitable results for the users.
 
-Note: MaxTac is **not** an open source project. It's source code will not be public and this applies to all the MaxTac projects.
+Note: MaxTac is **not** an open source project.
 
 ## Built With
 
